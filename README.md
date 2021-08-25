@@ -8,3 +8,13 @@ With my 100 % flawless program I found a grand total of zero classes that fufill
 I made this with very minimal knowledge of Python and no knowledge of Beautiful Soup, so the coding is very poor, but it served its purpose for me. 
 
 Please if you have any knowledge in programming, do not look at this code. You will roast me, and your eyes will cry at my inefficiency.
+
+# Tools Used
+If for some reason you actually want to run this, you will need Beautiful Soup and Requests. You can install both of these for Python 3 using the following commands in your terminal. 
+```
+pip3 install requests
+pip3 install beautifulsoup4
+```
+I also used Python 3.8.10.
+
+
