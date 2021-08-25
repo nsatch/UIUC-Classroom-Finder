@@ -3,6 +3,8 @@ I am a a transfer student at UIUC meaning I took two of my four college years at
 
 In addition, UIUC just opened up the new Campus Instructional Facility building that I was really hoping I could get a class in since it looked so cool. To my knowledge, UIUC's course explorer does not allow you to sort classes by classroom / buildings, so I took matters into my own hands and made this very crappy program.
 
+With my 100 % flawless program I found a grand total of zero classes that fufilled the credit I need in the CIF. I swear it is because no actual classes exists instead of my program failing. I even included a small test case url which reports classes in the CIF correctly!
+
 I made this with very minimal knowledge of Python and no knowledge of Beautiful Soup, so the coding is very poor, but it served its purpose for me. 
 
 Please if you have any knowledge in programming, do not look at this code. You will roast me, and your eyes will cry at my inefficiency.
